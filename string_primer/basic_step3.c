@@ -10,6 +10,7 @@ int main(void)
 	printf("%c",str[i-1]);
 	return 0;
 }
+
 //Q文字列 S と整数 i が与えられるので、 S の i 文字目を出力してください。
 //
 //scanfは標準入力から受け取っている。
