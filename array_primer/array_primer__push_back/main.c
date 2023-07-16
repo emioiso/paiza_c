@@ -9,12 +9,10 @@ int	main(void)
 	for (int i = 0; i < n; i++)
 	{
 		scanf("%d",&a[i]);
-		if(i == n){
-			printf("%d\n", m);
-		} else {
-			printf("%d\n", a[i]);
-		}
+		printf("%d\n",a[i]);
+// 		printf("i = %d\n",i);
+// 		printf("n = %d\n",n);
 	}
-
+	printf("%d\n",m);
 	return (0);
 }
