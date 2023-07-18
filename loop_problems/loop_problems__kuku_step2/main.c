@@ -18,7 +18,5 @@ int	main(void)
 			printf("%d ", i * N);
 		}
 	}
-
-
 	return (0);
 }

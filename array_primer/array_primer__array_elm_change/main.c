@@ -4,11 +4,11 @@ int	main(void)
 	int	A,B,N;
 
 	scanf("%d%d%d",&A,&B,&N);
-	printf("%d %d %d\n",A,B,N);
+// 	printf("%d %d %d\n",A,B,N);
 
 	int a[N];
 	int newA[N];
-	for (int i = 0; i < n; i++)
+	for (int i = 0; i < N; i++)
 	{
 		scanf("%d",&a[i]);
 		if (a[i] == A){

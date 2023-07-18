@@ -13,7 +13,5 @@ int	main(void)
 		scanf("%d",&a);
 		printf("%d\n",a);
 	}
-
-
 	return (0);
 }

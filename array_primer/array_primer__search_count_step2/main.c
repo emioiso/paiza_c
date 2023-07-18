@@ -5,7 +5,7 @@ int	main(void)
 
 	int n;
 	scanf("%d", &n);
-	printf("%d\n",n);
+// 	printf("%d\n",n);
 
 	int count = 0;
 	for (int i = 0; i < 11; i++)

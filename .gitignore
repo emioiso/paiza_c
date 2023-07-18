@@ -1,1 +1,6 @@
 a.out
+**/tests/
+*.in
+*.out
+result.txt
+.DS_Store
